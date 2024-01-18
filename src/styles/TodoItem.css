@@ -1,0 +1,13 @@
+.btn-delete {
+	background-color: var(--rojo);
+	color: #fff;
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: none;
+	border-radius: 30%;
+	transition: all 0.3s;
+	cursor: pointer;
+	font-family: inherit;
+}
